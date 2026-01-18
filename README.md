@@ -25,7 +25,7 @@
 ## 🌐 Connect With Me
 <p align="center">
   <!-- Instagram -->
-  <a href="https://instagram.com/aka_ssafin112" target="_blank">
+  <a href="https://instagram.com/aka_safin112" target="_blank">
     <img
       src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png"
       width="42"
