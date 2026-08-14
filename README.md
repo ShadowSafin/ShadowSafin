@@ -1,4 +1,4 @@
-# Hi there, I'm Abrar Safin 🤖
+# Hi there, I'm Abrar Safin 🚀
 
 <div align="center">
 
